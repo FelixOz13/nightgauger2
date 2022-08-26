@@ -1,13 +1,40 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+  box-sizing: border-box;
+  margin:0;
+  background-color: darkred;
+  
+}
+.Navbar{
+  background-color: black;
+  padding: 5px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+ .navbarlinks a{
+  font-size: 3vw;
+  font-family: 'Signika Negative';
+  text-decoration: none;
+  color: bisque;
+  padding: 5px;
+  
+  
+  
+ }
+.navbarlogo{
+  justify-content: center;
+  align-items: center;
+ 
+}
+.coverpic2{
+  width:100%;
+  height:auto
+
+}
+.herotext{
+  font-size: 3vw;
+    font-family: 'Signika Negative';
+    color: bisque;
+}
+.footerlogo{
+  margin-left: 85px;
 }
