@@ -9,7 +9,7 @@ pressure on layer, achieved by the transformation in foam of the
 deposit water accumulated in well.
 Automatic Launchers, combined with Well Limiters, can increase
         production 40% -50% and higher.</h3>
-       <img className='footerlogo' src="./assets/gasflow2.png" width=" 600px" height="550px" alt="" />
+       <img className='footerlogo' src="./assets/gasflow2.png" width=" 300px" height="250px" alt="" />
       
      
     
